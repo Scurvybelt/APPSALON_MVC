@@ -1,0 +1,7 @@
+src/
+vendro/
+node_modules/
+gulpfile.json
+package.json
+package-lock.json
+.env
